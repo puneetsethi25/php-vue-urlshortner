@@ -25,7 +25,9 @@ PHP+Vue URL Shortner is a very simple app URL.
         }
     }
 
-4\. Edit the `config.php` file.
+4\. Edit the `config.php` file in server/config.php.
+
+5\. Edit the server url in the const `apiUrl` file in index.html file on line #41
 
 ## Generating short URLs
 
